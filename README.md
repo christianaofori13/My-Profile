@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm an aspiring **Cybersecurity and Governance, Risk, and Compliance (GRC) professional** based in Niagara Falls, Canada. I am a graduate of **University of Cape Coast** and developing my knowledge of networking, cybersecurity fundamentals, and GRC principles. I'm passionate about learning how organizations can protect their systems, manage risks, and maintain strong security practices.
+I'm an aspiring **Cybersecurity and Governance, Risk, and Compliance (GRC) professional** based in Niagara Falls, Canada. I am a graduate of **University of Cape Coast** and **Wisconsin University College** and developing my knowledge of networking, cybersecurity fundamentals, and GRC principles. I'm passionate about learning how organizations can protect their systems, manage risks, and maintain strong security practices.
 
 ## 📚 What I'm Currently Learning
 
